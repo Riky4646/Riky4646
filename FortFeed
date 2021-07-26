@@ -4,7 +4,7 @@
     <title>Fortnite News</title>
     <description>RSS feed for Fortnite News</description>
     <link>https://www.epicgames.com/fortnite</link>
-    <language>it</language>
+    <language>en</language>
     <copyright>2019 Epic Games, Inc. - All Rights Reserved</copyright>
     <generator>Feednite</generator>
     <docs>https://github.com/Qrivi/Feednite</docs>
