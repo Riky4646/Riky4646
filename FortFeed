@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Fortnite News</title>
+    <description>RSS feed for Fortnite News</description>
+    <link>https://www.epicgames.com/fortnite</link>
+    <language>it</language>
+    <copyright>2019 Epic Games, Inc. - All Rights Reserved</copyright>
+    <generator>Feednite</generator>
+    <docs>https://github.com/Qrivi/Feednite</docs>
+    <image>
+      <title>Fortnite News</title>
+      <link>https://www.epicgames.com/fortnite</link>
+      <url>https://pbs.twimg.com/profile_images/1017458813199372289/QtGv1tyn_400x400.jpg</url>
+    </image>
+    <atom:link type="application/rss+xml" rel="self" href="https://local.dev:3000/?limit=1&details=nope"/>
+    <item>
+      <title>Save the World Cosmetic Update #2</title>
+      <guid>https://www.epicgames.com/fortnite/blog/save-the-world-cosmetic-update-2</guid>
+      <link>https://www.epicgames.com/fortnite/blog/save-the-world-cosmetic-update-2</link>
+      <description><![CDATA[<strong><span style="font-size:12pt;font-family:'Proxima Nova',sans-serif;white-space:pre;">Save the World Cosmetic Update #2</span></strong>]]></description>
+      <author>support@epicgames.desk-mail.com (The Fortnite Team)</author>
+      <pubDate>Fri, 23 Aug 2019 06:00:00 GMT</pubDate>
+      <category>announcements</category>
+    </item>
+  </channel>
+</rss>
